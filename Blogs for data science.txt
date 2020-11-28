@@ -1,0 +1,56 @@
+Top 50 Data Science Blogs
+
+When you work in an industry that can change overnight, you need to be on top of your game.
+
+For any budding Data Scientist is the Vast Selection of Top-quality Data Science Blogs Online
+
+1. KDnuggets
+2. Data Science Central
+3. Revolution Analytics 
+4.  R Bloggers
+5. Analytics Vidhya
+6. Big Data Made Simple  
+7. OReilly Media’s Data Science Blog 
+8. Hortonworks 
+9. Cloudera 
+10. Yhat 
+11. Datafloq 
+12. Big Data University 
+13. Smart Data Collective 
+14. Data Science 101
+15. Machine Learning Mastery 
+16. DataTau
+17. Edwin Chen’s Blog 
+18. Dataquest 
+19. Dataconomy 
+20. Dataschool
+21. Hunch
+22. Fastml
+23. No Free Hunch
+24. whatsthebigdata
+25. Becoming a Data Scientist
+26. FlowingData
+27. Simply Statistics
+28. Insight
+29. Data Science Report
+30. Tableau
+31. DataScienceWeekly
+32. Pete Warden
+33. The Shape of Data
+34. Sebastian Raschka’s blog
+35. InsideBigData
+36. The Unofficial Google Data Science Blog
+37. Domino DataLab
+38. John D Cook’s blog
+39. Andrew Gelman’s Blog
+40. Natural language processing blog
+41. Mapr
+42. IBM Big Data Hub
+43. Databricks
+44. Planet BigData
+45. Dataversity
+46. EMC’s Big Data Blog
+47. Ap-institute
+48. Aryng
+49. Think Big Analytics
+50. Big Data Week
